@@ -1,5 +1,4 @@
-# MPAGS-Project
-Original idea:
+# MPAGS-Project-Original-Idea:
 So I've previously been working with images of surfaces returned by atomic force microscopes, examples found in this directory, and a key characteristic of the surface is the flake coverage.  Previously, I was using a ruler and an Excel document of each flake's height and width and approximated them as an ellipses to find their total coverage.
 
 I struggled to make a program that detected flakes in Matlab, as the software didn't like working with such large arrays.  I plan to make a similar program in Python that does the following:
